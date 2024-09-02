@@ -1,0 +1,2 @@
+# Dist_WinServer2012r2vlUpdatex64_ru
+Dist_WinServer2012r2vlUpdatex64_ru
