@@ -11,4 +11,6 @@ https://github.com/IvanSibirevV2/Dist_WinServer2012r2vlUpdatex64_ru/raw/refs/hea
 
 (Рабочая папка: %~dp0  - заставит смотреть ярлык в папку в которой он лежит)
 
-После скачивания - запустить файл WinServer2012_ru_.exe
+После скачивания - запустить файл WinServer2012_ru_/WinServer2012_ru_.exe
+Везде жмем далее
+
